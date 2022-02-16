@@ -18,7 +18,7 @@ python3 main.py
 
 Contributions are always welcome!
 
-visit [mansoor.cf/socials](https://www.mansoor.cf/socials) for ways to get started.
+www.mansoor.cf/socials for ways to get started.
 
 
 ## 🔗 Links
